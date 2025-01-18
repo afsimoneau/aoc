@@ -83,7 +83,6 @@ func calculateTotal(leftSlice []int, rightSlice []int) int {
 			}
 		}
 		total += left * count
-
 	}
 
 	return total
